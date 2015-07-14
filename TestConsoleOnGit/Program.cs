@@ -10,6 +10,8 @@ namespace TestConsoleOnGit
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Hello Git!");
+
 
 
 		}
