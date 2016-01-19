@@ -12,6 +12,8 @@ namespace TestConsoleOnGit
 		{
 			Console.WriteLine("Hello Git!");
 
+			Console.WriteLine("This is a change");
+
 			Console.ReadLine();
 
 			//Comments here...
