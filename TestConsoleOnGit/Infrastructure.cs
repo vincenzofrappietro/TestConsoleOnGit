@@ -10,7 +10,10 @@ namespace TestConsoleOnGit
 	{
 		public void Initialize()
 		{
-			//Implementation here
+			int max = 0;
+
+			for (int i = 0; i < max; i++)
+				Console.WriteLine(string.Format("Initializing part {0}", i+1));
 		}
 	}
 }
