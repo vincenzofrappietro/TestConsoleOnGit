@@ -12,6 +12,8 @@ namespace TestConsoleOnGit
 		{
 			int max = 0;
 
+			Console.WriteLine("Please wait...");
+
 			for (int i = 0; i < max; i++)
 				Console.WriteLine(string.Format("Starting up part {0} of {1}", i+1, max));
 		}
