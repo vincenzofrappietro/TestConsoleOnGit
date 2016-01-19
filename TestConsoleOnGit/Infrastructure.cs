@@ -10,7 +10,7 @@ namespace TestConsoleOnGit
 	{
 		public void Initialize()
 		{
-
+			//Comments here
 		}
 	}
 }
