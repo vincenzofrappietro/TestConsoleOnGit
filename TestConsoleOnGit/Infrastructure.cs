@@ -13,7 +13,7 @@ namespace TestConsoleOnGit
 			int max = 0;
 
 			for (int i = 0; i < max; i++)
-				Console.WriteLine(string.Format("Initializing part {0} of {1}", i+1, max));
+				Console.WriteLine(string.Format("Starting up part {0} of {1}", i+1, max));
 		}
 	}
 }
