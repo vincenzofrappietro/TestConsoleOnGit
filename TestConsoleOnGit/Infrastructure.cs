@@ -16,6 +16,8 @@ namespace TestConsoleOnGit
 
 			for (int i = 0; i < max; i++)
 				Console.WriteLine(string.Format("Starting up part {0} of {1}", i+1, max));
+
+			Console.WriteLine("Completed");
 		}
 	}
 }
