@@ -8,5 +8,9 @@ namespace TestConsoleOnGit
 {
 	class ServiceClass
 	{
+		public static void WriteOutput()
+		{
+			Console.WriteLine("Hello Git!");
+		}
 	}
 }

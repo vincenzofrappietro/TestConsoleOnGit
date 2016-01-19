@@ -10,13 +10,9 @@ namespace TestConsoleOnGit
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello Git!");
-
-			Console.WriteLine("This is a change");
+			ServiceClass.WriteOutput();
 
 			Console.ReadLine();
-
-			//Comments here...
 		}
 	}
 }
