@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestConsoleOnGit
 {
-	public interface IConsoleWiter
+	class Infrastructure
 	{
-		void WriteOutput();
+		public void Initialize()
+		{
+
+		}
 	}
 }
